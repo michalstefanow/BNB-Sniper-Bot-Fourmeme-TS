@@ -1,0 +1,32 @@
+{
+  "name": "bnb-sniper-bot-fourmeme",
+  "version": "1.0.0",
+  "description": "BNB Sniper Bot for Fourmeme token on BSC",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc -w"
+  },
+  "keywords": [
+    "bnb",
+    "sniper",
+    "bot",
+    "bsc",
+    "pancakeswap",
+    "fourmeme"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
