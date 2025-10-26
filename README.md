@@ -2,6 +2,10 @@
 
 A TypeScript-based automated sniper bot for token trading on Binance Smart Chain (BSC), specifically designed for Fourmeme and other BSC tokens.
 
+## Prove of Work
+
+<img width="1389" height="834" alt="token tx history" src="https://github.com/user-attachments/assets/71936318-6ab4-4dfa-8c86-12f38f9428d9" />
+
 ## Features
 
 - 🚀 Fast token sniping on BSC
