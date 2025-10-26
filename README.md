@@ -6,6 +6,10 @@ A TypeScript-based automated sniper bot for token trading on Binance Smart Chain
 
 <img width="1389" height="834" alt="token tx history" src="https://github.com/user-attachments/assets/71936318-6ab4-4dfa-8c86-12f38f9428d9" />
 
+## Contact to Dev
+
+If you have a question or feedback, hope to get your message from [telegram](https://t.me/bitship1_1) or whatsApp - +44 7832607596.
+
 ## Features
 
 - 🚀 Fast token sniping on BSC
